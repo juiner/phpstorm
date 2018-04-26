@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*relatorio*" />
+    <recentFileMasks>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*vusai*.php</mask>
+      <mask>*vusa=*.php</mask>
+      <mask>*vusa*.php</mask>
+      <mask>*vus*.php</mask>
+      <mask>*vu*.php</mask>
+      <mask>*v*.php</mask>
+      <mask>*visao*.php</mask>
+      <mask>visao*.php</mask>
+      <mask>isao*.php</mask>
+      <mask>sao*.php</mask>
+      <mask>ao*.php</mask>
+      <mask>o*.php</mask>
+      <mask>*.php</mask>
+      <mask>**.php</mask>
+      <mask>*rela*.php</mask>
+      <mask>*relato*.php</mask>
+      <mask>*relatorio*.php</mask>
+      <mask>*relatorio*.ph</mask>
+      <mask>*relatorio*.p</mask>
+      <mask>*relatorio*.</mask>
+      <mask>*relatorio*</mask>
+    </recentFileMasks>
+  </component>
+</application>
