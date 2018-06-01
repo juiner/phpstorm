@@ -9,14 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*vusa=*.php</mask>
-      <mask>*vusa*.php</mask>
-      <mask>*vus*.php</mask>
-      <mask>*vu*.php</mask>
-      <mask>*v*.php</mask>
-      <mask>*visao*.php</mask>
       <mask>visao*.php</mask>
       <mask>isao*.php</mask>
       <mask>sao*.php</mask>
@@ -33,14 +27,20 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
+      <mask>*.ph</mask>
+      <mask>*</mask>
+      <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*</mask>
+      <mask>*.OHO</mask>
+      <mask>*.OH</mask>
+      <mask>*.O</mask>
+      <mask>*.PHP</mask>
+      <mask>*.PH</mask>
+      <mask>*.P</mask>
       <mask>*.</mask>
-      <mask>*.sql</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
