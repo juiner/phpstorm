@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*retencao*" />
     <recentFileMasks>
       <mask>*.PH</mask>
       <mask>*.P</mask>
@@ -31,7 +30,6 @@
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>**</mask>
       <mask>*re*</mask>
       <mask>*ret*</mask>
@@ -39,6 +37,7 @@
       <mask>*reten*</mask>
       <mask>*retenca*</mask>
       <mask>*retencao*</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
