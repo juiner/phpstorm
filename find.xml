@@ -7,24 +7,15 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*retencao*" />
     <recentFileMasks>
-      <mask>*relatorio*.</mask>
-      <mask>*relatorio*</mask>
-      <mask>*.OHO</mask>
-      <mask>*.OH</mask>
-      <mask>*.O</mask>
-      <mask>*.PHP</mask>
       <mask>*.PH</mask>
       <mask>*.P</mask>
       <mask>*.sqk</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
       <mask>*.c</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>(*</mask>
-      <mask>**</mask>
       <mask>*sli*</mask>
       <mask>*slip**.p</mask>
       <mask>*slip**.</mask>
@@ -33,12 +24,21 @@
       <mask>*sli</mask>
       <mask>*sl</mask>
       <mask>*s</mask>
-      <mask>*</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>**</mask>
+      <mask>*re*</mask>
+      <mask>*ret*</mask>
+      <mask>*rete*</mask>
+      <mask>*reten*</mask>
+      <mask>*retenca*</mask>
+      <mask>*retencao*</mask>
     </recentFileMasks>
   </component>
 </application>
