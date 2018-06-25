@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.P</mask>
-      <mask>*.sqk</mask>
       <mask>*.c</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
@@ -25,7 +24,6 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
@@ -33,11 +31,14 @@
       <mask>*ret*</mask>
       <mask>*reten*</mask>
       <mask>*retenca*</mask>
-      <mask>*</mask>
       <mask>**</mask>
       <mask>*r*</mask>
       <mask>*rete*</mask>
       <mask>*retencao*</mask>
+      <mask>*(.</mask>
+      <mask>*(</mask>
+      <mask>*</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
