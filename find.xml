@@ -8,36 +8,36 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*sli*</mask>
-      <mask>*slip**.p</mask>
-      <mask>*slip**.</mask>
-      <mask>*slip**</mask>
-      <mask>*slip*</mask>
-      <mask>*sli</mask>
-      <mask>*sl</mask>
-      <mask>*s</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*re*</mask>
-      <mask>*ret*</mask>
-      <mask>*reten*</mask>
-      <mask>*retenca*</mask>
-      <mask>*r*</mask>
-      <mask>*rete*</mask>
       <mask>*retencao*</mask>
       <mask>*(.</mask>
       <mask>*(</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>**</mask>
       <mask>*L*</mask>
       <mask>*Li*</mask>
       <mask>*Lib*</mask>
       <mask>*Lib21*</mask>
+      <mask>*Lib21</mask>
+      <mask>*Lib2</mask>
+      <mask>*Lib</mask>
+      <mask>*Li</mask>
+      <mask>*L</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>**</mask>
+      <mask>*Per*</mask>
+      <mask>*Persi*</mask>
+      <mask>*Persistenc*</mask>
+      <mask>*Persistencia*</mask>
+      <mask>ba</mask>
+      <mask>baixao</mask>
+      <mask>baixa</mask>
+      <mask>baixad</mask>
+      <mask>baixado</mask>
+      <mask>baixadoS</mask>
+      <mask>baixadoSli</mask>
+      <mask>baixadoSlip</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
