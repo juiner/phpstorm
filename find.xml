@@ -7,11 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Relatorio*" />
     <recentFileMasks>
-      <mask>*retencao*</mask>
-      <mask>*(.</mask>
-      <mask>*(</mask>
-      <mask>*L*</mask>
       <mask>*Li*</mask>
       <mask>*Lib*</mask>
       <mask>*Lib21*</mask>
@@ -24,7 +21,6 @@
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
-      <mask>**</mask>
       <mask>*Per*</mask>
       <mask>*Persi*</mask>
       <mask>*Persistenc*</mask>
@@ -38,6 +34,11 @@
       <mask>baixadoSli</mask>
       <mask>baixadoSlip</mask>
       <mask>*</mask>
+      <mask>**</mask>
+      <mask>*Rea*</mask>
+      <mask>*Re*</mask>
+      <mask>*Relato*</mask>
+      <mask>*Relatorio*</mask>
     </recentFileMasks>
   </component>
 </application>
