@@ -1,8 +1,12 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="MethodHierarchy" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
