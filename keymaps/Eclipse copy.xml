@@ -1,5 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="CheckinProject">
+  <action id="CallHierarchy" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
   <action id="CloseContent">
@@ -10,5 +12,8 @@
   <action id="MethodHierarchy" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
 </keymap>
