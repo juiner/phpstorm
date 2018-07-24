@@ -3,18 +3,10 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*boleto*" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*Persi*</mask>
-      <mask>*Persistenc*</mask>
-      <mask>*Persistencia*</mask>
-      <mask>ba</mask>
-      <mask>baixao</mask>
-      <mask>baixa</mask>
       <mask>baixad</mask>
       <mask>baixado</mask>
       <mask>baixadoS</mask>
@@ -34,11 +26,17 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>**</mask>
       <mask>*b*</mask>
       <mask>*bol*</mask>
       <mask>*boleto*</mask>
+      <mask>*boleto</mask>
+      <mask>*bolet</mask>
+      <mask>*bole</mask>
+      <mask>*bol</mask>
+      <mask>*bo</mask>
+      <mask>*b</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
