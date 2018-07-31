@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>baixad</mask>
       <mask>baixado</mask>
@@ -21,13 +21,10 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>**</mask>
       <mask>*b*</mask>
       <mask>*bol*</mask>
@@ -39,6 +36,9 @@
       <mask>*bo</mask>
       <mask>*b</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
