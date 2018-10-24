@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>baixad</mask>
-      <mask>baixado</mask>
       <mask>baixadoS</mask>
       <mask>baixadoSli</mask>
       <mask>baixadoSlip</mask>
@@ -15,8 +14,6 @@
       <mask>*Re*</mask>
       <mask>*Relato*</mask>
       <mask>*Relatorio*</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -34,8 +31,12 @@
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
