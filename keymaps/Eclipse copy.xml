@@ -1,6 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="CallHierarchy" />
   <action id="ChangesView.ShelveSilently" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
@@ -8,10 +9,17 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="Git.Log">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
   <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
   <action id="MethodHierarchy" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
@@ -19,6 +27,7 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="ShowUmlDiagramPopup" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
