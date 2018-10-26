@@ -5,17 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Visao*lista*.php" />
     <recentFileMasks>
-      <mask>*Re*</mask>
-      <mask>*Relato*</mask>
-      <mask>*Relatorio*</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>**</mask>
-      <mask>*b*</mask>
-      <mask>*bol*</mask>
       <mask>*boleto*</mask>
       <mask>*boleto</mask>
       <mask>*bolet</mask>
@@ -23,19 +14,29 @@
       <mask>*bol</mask>
       <mask>*bo</mask>
       <mask>*b</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.sql</mask>
       <mask>T*.sql</mask>
       <mask>TR*.sql</mask>
       <mask>TRF*.sql</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
+      <mask>**.php</mask>
+      <mask>*V*.php</mask>
+      <mask>*Visa*.php</mask>
+      <mask>*Visao*.php</mask>
+      <mask>*Visao**.php</mask>
+      <mask>*Visao*liszta*.php</mask>
+      <mask>*Visao*liszt*.php</mask>
+      <mask>*Visao*lisz*.php</mask>
+      <mask>*Visao*lis*.php</mask>
+      <mask>*Visao*lista*.php</mask>
     </recentFileMasks>
   </component>
 </application>
