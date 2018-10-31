@@ -126,9 +126,13 @@
           <option name="url" value="https://github.com/p21jerfeson/qg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/p21sistemas/anoregbr21-antigo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\p21\sistemas\web\local.protesto24h" />
+    <option name="cloneParentDir" value="C:\p21\sistemas\web\local.anoregbr21" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
