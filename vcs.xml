@@ -138,9 +138,13 @@
           <option name="url" value="https://github.com/p21sistemas/ceprodf.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/p21sistemas/bancocertidao.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\p21\sistemas\web\local.cra" />
+    <option name="cloneParentDir" value="C:\p21\sistemas\web\local.bdmanaus" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
