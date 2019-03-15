@@ -1,19 +1,18 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Cra*.php" />
     <recentFileMasks>
-      <mask>*bo</mask>
-      <mask>*b</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>T*.sql</mask>
       <mask>TR*.sql</mask>
       <mask>TRF*.sql</mask>
-      <mask>*.php</mask>
       <mask>**.php</mask>
       <mask>*V*.php</mask>
       <mask>*Visa*.php</mask>
@@ -30,12 +29,16 @@
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>C*.php</mask>
+      <mask>Cra*.php</mask>
     </recentFileMasks>
   </component>
 </application>
