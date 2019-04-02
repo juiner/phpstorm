@@ -7,13 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*VISAO*.php" />
     <recentFileMasks>
-      <mask>*.ph</mask>
-      <mask>T*.sql</mask>
-      <mask>TR*.sql</mask>
-      <mask>TRF*.sql</mask>
-      <mask>**.php</mask>
-      <mask>*V*.php</mask>
       <mask>*Visa*.php</mask>
       <mask>*Visao*.php</mask>
       <mask>*Visao**.php</mask>
@@ -38,6 +33,12 @@
       <mask>*.php</mask>
       <mask>C*.php</mask>
       <mask>Cra*.php</mask>
+      <mask>*v*.php</mask>
+      <mask>*vSAO*.php</mask>
+      <mask>*vSA*.php</mask>
+      <mask>*vS*.php</mask>
+      <mask>**.php</mask>
+      <mask>*VISAO*.php</mask>
     </recentFileMasks>
   </component>
 </application>
