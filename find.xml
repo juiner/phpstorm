@@ -7,25 +7,10 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*persistencia*" />
     <recentFileMasks>
-      <mask>*Visa*.php</mask>
-      <mask>*Visao*.php</mask>
-      <mask>*Visao**.php</mask>
-      <mask>*Visao*liszta*.php</mask>
-      <mask>*Visao*liszt*.php</mask>
-      <mask>*Visao*lisz*.php</mask>
-      <mask>*Visao*lis*.php</mask>
-      <mask>*Visao*lista*.php</mask>
-      <mask>*.H</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.sq</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>C*.php</mask>
@@ -36,8 +21,24 @@
       <mask>*vS*.php</mask>
       <mask>**.php</mask>
       <mask>*VISAO*.php</mask>
-      <mask>*</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*P</mask>
+      <mask>*PHP</mask>
+      <mask>*8</mask>
+      <mask>*</mask>
+      <mask>*PER*</mask>
+      <mask>*P*</mask>
+      <mask>*er*</mask>
+      <mask>**</mask>
+      <mask>*per*</mask>
+      <mask>*pers*</mask>
+      <mask>*persis*</mask>
+      <mask>*persisten*</mask>
+      <mask>*persistenc*</mask>
+      <mask>*persistencia*</mask>
     </recentFileMasks>
   </component>
 </application>
