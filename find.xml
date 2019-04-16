@@ -7,10 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*persistencia*" />
+    <option name="FILE_MASK" value="*.SQL" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>C*.php</mask>
@@ -28,7 +26,6 @@
       <mask>*P</mask>
       <mask>*PHP</mask>
       <mask>*8</mask>
-      <mask>*</mask>
       <mask>*PER*</mask>
       <mask>*P*</mask>
       <mask>*er*</mask>
@@ -39,6 +36,9 @@
       <mask>*persisten*</mask>
       <mask>*persistenc*</mask>
       <mask>*persistencia*</mask>
+      <mask>*,</mask>
+      <mask>*</mask>
+      <mask>*.SQL</mask>
     </recentFileMasks>
   </component>
 </application>
