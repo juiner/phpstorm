@@ -7,12 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*registro*" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>C*.php</mask>
-      <mask>Cra*.php</mask>
-      <mask>*v*.php</mask>
       <mask>*vSAO*.php</mask>
       <mask>*vSA*.php</mask>
       <mask>*vS*.php</mask>
@@ -21,14 +17,12 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*P</mask>
       <mask>*PHP</mask>
       <mask>*8</mask>
       <mask>*PER*</mask>
       <mask>*P*</mask>
       <mask>*er*</mask>
-      <mask>**</mask>
       <mask>*per*</mask>
       <mask>*pers*</mask>
       <mask>*persis*</mask>
@@ -36,8 +30,15 @@
       <mask>*persistenc*</mask>
       <mask>*persistencia*</mask>
       <mask>*,</mask>
-      <mask>*</mask>
       <mask>*.SQL</mask>
+      <mask>*.S</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>**</mask>
+      <mask>*re*</mask>
+      <mask>*regis*</mask>
+      <mask>*registr*</mask>
+      <mask>*registro*</mask>
     </recentFileMasks>
   </component>
 </application>
