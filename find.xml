@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*PER*</mask>
-      <mask>*P*</mask>
       <mask>*er*</mask>
       <mask>*per*</mask>
       <mask>*pers*</mask>
@@ -33,10 +31,12 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
