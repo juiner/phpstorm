@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*er*</mask>
       <mask>*per*</mask>
@@ -25,20 +25,20 @@
       <mask>*registr*</mask>
       <mask>*registro*</mask>
       <mask>*.PH</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
       <mask>*</mask>
       <mask>*.PHP</mask>
       <mask>*.P</mask>
-      <mask>*.ph</mask>
       <mask>*.s</mask>
-      <mask>*.php</mask>
-      <mask>*.p</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
