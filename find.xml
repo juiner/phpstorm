@@ -7,8 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*persisten*</mask>
-      <mask>*persistenc*</mask>
       <mask>*persistencia*</mask>
       <mask>*,</mask>
       <mask>*.SQL</mask>
@@ -24,18 +22,20 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*h</mask>
-      <mask>*.h</mask>
       <mask>*.htmlç</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
+      <mask>*.htgml</mask>
+      <mask>*.htgm</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
       <mask>*.</mask>
+      <mask>*.php</mask>
+      <mask>*.p</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
