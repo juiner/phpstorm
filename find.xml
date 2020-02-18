@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.SQL</mask>
       <mask>*.S</mask>
@@ -19,22 +19,22 @@
       <mask>*.j</mask>
       <mask>*h</mask>
       <mask>*.htmlç</mask>
-      <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.htgml</mask>
       <mask>*.htgm</mask>
-      <mask>*.ht</mask>
       <mask>*</mask>
       <mask>*.phyp</mask>
+      <mask>*.htmnl</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.htmnl</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
